@@ -23,4 +23,4 @@ With all stocks on TASI plotted, the amount of time and efforts are shortened to
 
 ![alt text](https://s3.tradingview.com/snapshots/n/nG7WNw2L.png)
 
-< This example, which was resulted by tradingview analysis tools, is created indivisually. How long will this takes one to apply MA on the whole stocks on TASI?
+> This example, which was resulted by tradingview analysis tools, is created indivisually. How long will this takes one to apply MA on the whole stocks on TASI?
