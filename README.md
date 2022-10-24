@@ -1,7 +1,7 @@
 # TASI_STOCKS_MOVING_AVERAGE
-This code gets the data from an initial year up to a current day with moving average (MA) visualization.
+This code obtains data from an initial day of a current year up to a current day with moving average (MA) visualization.
 
-The source code is based on Selenium to automatically control one's browser to open each stock on TASI in a single run. It forces a page on investing.com to display (open, close, highest, lowest, and change prices) and then it applies three moving average formulas (MA9, MA20, and MA50) to be plotted. The plots helps one to understand the status of each stock market instead of implementing MA manually on each stock. 
+The source code is based on Selenium to automatically control one's browser to open each stock page on TASI in a single run. It forces a page on investing.com to display (open, close, highest, lowest, and change prices) and then it applies three moving average formulas (MA9, MA20, and MA50) to be plotted. The plots helps one to understand the status of each stock instead of implementing MA manually every time. 
 
 With all stocks on TASI plotted, the amount of time and efforts are shortened to help one to find the suitable stocks to implement other technical analysis.
 
